@@ -35,7 +35,12 @@ Backend
 🧠 AI Feedback Output
 <img src="./screenshots/Output.png" width="700" />
 🏗 System Architecture
-<img src="./screenshots/architecture.png" width="700" />
+<img src="./screenshots/architecture.png" width="350" />
+
+
+
+
+
 🧩 Architecture Diagram
 ┌───────────────┐        Upload File        ┌────────────────┐
 │   React App   │ ───────────────────────▶ │    FastAPI     │
