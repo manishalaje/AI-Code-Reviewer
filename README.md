@@ -30,12 +30,15 @@ Backend
 📸 Screenshots
 🔷 Home UI
 <img src="./screenshots/UI.png" width="700" />
+
 📤 Upload Form
-<img src="./screenshots/Code.png" width="700" />
+<img src="./screenshots/code.png" width="700" />
+
 🧠 AI Feedback Output
 <img src="./screenshots/Output.png" width="700" />
+
 🏗 System Architecture
-<img src="./screenshots/architecture.png" width="350" />
+<img src="./screenshots/architecture.png" width="200" />
 
 
 
