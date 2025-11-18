@@ -29,17 +29,17 @@ Backend
 
 📸 Screenshots
 🔷 Home UI
-<img src="./screenshots/UI.png" width="200" />
+<img src="./screenshots/UI.png" width="400" />
 
 
 
 📤 Upload Form
-<img src="./screenshots/code.png" width="200" />
+<img src="./screenshots/code.png" width="400" />
 
 
 
 🧠 AI Feedback Output
-<img src="./screenshots/Output.png" width="200" />
+<img src="./screenshots/Output.png" width="400" />
 
 
 
