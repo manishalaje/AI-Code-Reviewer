@@ -27,31 +27,6 @@ Backend
 🔒 Secret redaction system
 📁 File streaming + async handling
 
-📸 Screenshots
-🔷 Home UI
-<img src="./screenshots/UI.png" width="400" />
-
-
-
-📤 Upload Form
-<img src="./screenshots/code.png" width="400" />
-
-
-
-🧠 AI Feedback Output
-<img src="./screenshots/Output.png" width="400" />
-
-
-
-
-🏗 System Architecture
-<img src="./screenshots/architecture.png" width="200" />
-
-
-
-
-
-
 ⚡ Features
 🖱️ Modern Upload UI
 Drag & drop
